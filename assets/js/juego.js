@@ -1,5 +1,5 @@
 const miModulo = (() => { //-- funcion anónima autoinvocada o Pátron módulo
-    'use strict'
+    'use strict';
 
     let deck         = [];                   //-- baraja
     const tipos      = ['C', 'D', 'H', 'S'], //-- todos los tipos de cartas
