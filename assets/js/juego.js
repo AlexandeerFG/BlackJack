@@ -104,7 +104,7 @@ const miModulo = (() => { //-- funcion anónima autoinvocada o Pátron módulo
         }, 100 );
     }
 
-    //-- turno computadora 
+    //-- turno computadora !
     const turnoComputadora = ( puntosMinimos ) => {
 
         let puntosComputadora = 0;
